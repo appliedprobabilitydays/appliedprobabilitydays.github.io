@@ -72,7 +72,7 @@ Each APD has six renown invited speakers covering a broad array of topics in app
 - David Heath (Carnegie Mellon University): _Risk Management Using Coherent Risk Measures_
 - Tom Kurtz (University of Madison, Wisconsin): _Exchangeability and derivation and approximation of filtering equations_
 - Philip Protter (Purdue University): _Non-redundant Claims: Robustness, Regularity, and Formulas_
-- David Siegmund (Stanford Univerity): _Approximate P-values for Local Sequence  Alignments_
+- David Siegmund (Stanford University): _Approximate P-values for Local Sequence  Alignments_
 - Richard Weber (Cambridge University): _A Large Deviations Analysis of the Multiplexing of Periodic Traffic Sources_
 - Søren Asmussen (University of Lund, Sweden): _Exponential Martingales in Applied Probability_
 
@@ -103,14 +103,14 @@ Each APD has six renown invited speakers covering a broad array of topics in app
 ## 2004
 - Assaf Naor (Microsoft Research):Shannon's Problem on the Monotonicity of Entropy_
 - Yuval Peres (University California, Berkeley): _A Stable Marriage of a Poisson Process and Lebesgue Measure_
-- Amir Dembo (Stanford University):Fractal geometry of simple random covering: _late and favorite points_
+- Amir Dembo (Stanford University): _Fractal geometry of simple random covering: late and favorite points_
 - Timo Seppalainen (University of Wisconsin): _Inhomogeneities and the Hydrodynamic Limit of the Asymmetric Exclusion Process_
 - Gennady Samorodnitsky (Cornell University): _Measuring the Length of Memory in Infinite Variance Stable Processes_
 - Chris Heyde (Columbia University and Australia National University): _The Zoo of Non-classical Limit Theorems - Species Yet to be Classified_
 
 ## 2006
 - Louis Chen (National University of Singapore): _Poisson Process Approximation: from Palm theory to Stein’s method_
-- Michael Pinedo (Stern School of Business, New York University ): _Stochastic Batch Scheduling and the “Smallest Variance First Rule_
+- Michael Pinedo (New York University): _Stochastic Batch Scheduling and the “Smallest Variance First Rule_
 - Samuel Kou (Harvard University): _Stochastic Modeling in Nanoscale Biophysics_
 - Esther Frostig (University of Haifa): _On Ruin Probability for a Risk Process with Phase-type Claims and Inter-arrival Times Perturbed by a Levy Process with No Negative Jumps_
 - Offer Kella (The Hebrew University of Jerusalem): _A Levy Process Reflected at a Poisson Age_
@@ -120,7 +120,7 @@ Each APD has six renown invited speakers covering a broad array of topics in app
 - Kevin Glazebrook (Lancaster University, UK): _General Notions of Indexability and Dynamic Allocation of Individuals to Teams Providing Service_
 - Jose Blanchet (Harvard University): _Rare-event Analysis and Simulation of Heavy-tailed Systems_
 - Jim Fill (Johns Hopkins University): _A (Minor) Miracle: Diagonalization of a Bose-Einstein Markov Chain_
-- Marco Avellaneda (Courant Institute, NYU): _Power-Law Price Impact Models and Stock Pinning on Option Expiration Dates_
+- Marco Avellaneda (New York University): _Power-Law Price Impact Models and Stock Pinning on Option Expiration Dates_
 - Steve Lalley (University Chicago): _Spatial Epidemics: Critical Behavior_
 - Les Servi (Lincoln Labs, MIT): _Methods of Maritime Tracking: An Overview from an Applied Probability/Operations Research Perspective_
 
@@ -134,7 +134,7 @@ In honor and memory of Chris C. Heyde.
 
 ## 2009
 - Masakiyo Miyazawa (Tokyo University of Science): _Tail asymptotics for a Levy-driven tandem queue with an intermediate input and some related topics_
-- Bert Zwart (VU University of Amsterdam & Centrum Wiskunde & Informatica (CWI), The Netherlands): _Time-dependent properties of symmetric queues_
+- Bert Zwart (VU University of Amsterdam & Centrum voor Wiskunde en Informatica (CWI), The Netherlands): _Time-dependent properties of symmetric queues_
 - Mor Harchol-Balter (Carnegie Mellon University): _Surprising results on Task Assignment in Server Farms with High-Variability Workloads_
 
 ## 2011

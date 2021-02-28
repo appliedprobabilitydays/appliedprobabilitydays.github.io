@@ -31,9 +31,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise 
 
 
-include:
- - _pages
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
