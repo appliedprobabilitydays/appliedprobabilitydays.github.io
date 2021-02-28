@@ -101,7 +101,7 @@ Each APD has six renown invited speakers covering a broad array of topics in app
 - Alexander Stolyar (Bell Labs Research): _Scheduling of Flexible Interdependent Time-varying Servers_
 
 ## 2004
-- Assaf Naor (Microsoft Research):Shannon's Problem on the Monotonicity of Entropy_
+- Assaf Naor (Microsoft Research): _Shannon's Problem on the Monotonicity of Entropy_
 - Yuval Peres (University California, Berkeley): _A Stable Marriage of a Poisson Process and Lebesgue Measure_
 - Amir Dembo (Stanford University): _Fractal geometry of simple random covering: late and favorite points_
 - Timo Seppalainen (University of Wisconsin): _Inhomogeneities and the Hydrodynamic Limit of the Asymmetric Exclusion Process_
