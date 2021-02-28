@@ -13,6 +13,5 @@ permalink: /committees/
 - David Yao
 
 ## Advisory committee
-- Jose Blanchet
 - David Goldberg
 

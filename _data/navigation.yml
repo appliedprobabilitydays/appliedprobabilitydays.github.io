@@ -1,6 +1,8 @@
 main:
 - title: Home
   url: /
+- title: Program
+  url: /program
 - title: History
   url: /history
 - title: Committees
