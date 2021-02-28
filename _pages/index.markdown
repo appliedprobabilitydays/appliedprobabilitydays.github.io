@@ -1,4 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 ### Applied Probability Day (1992-2003)
+
+test
 
 Applied Probability Day (APD) first took place in April 1992 at Columbia University as a one-day international event. It traditionally takes place on a Friday, 9:00AM - 6:00PM, leaving the weekend free for visitors to enjoy the many attractions of New York City.  In 1995 APD was merged together with the fall semester of Probability Towards 2000.
 

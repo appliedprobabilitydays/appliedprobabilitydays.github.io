@@ -1,0 +1,7 @@
+main:
+- title: Home
+  url: /
+- title: History
+  url: /history
+- title: Committees
+  url: /committees 
