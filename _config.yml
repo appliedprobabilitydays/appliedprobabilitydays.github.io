@@ -29,7 +29,7 @@ twitter_username: NO_TWITTER
 github_username:  appliedprobabilitydays
 
 # Build settings
-# theme: minimal-mistakes-jekyll 
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
 
