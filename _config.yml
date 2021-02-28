@@ -30,8 +30,6 @@ github_username:  appliedprobabilitydays
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-plugins:
-  - jekyll-feed
 
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise 
 
