@@ -7,9 +7,9 @@ toc_label: "Year"
 toc_sticky: true
 author_profile: false
 ---
-Applied Probability Day (APD) first took place in April 1992 at Columbia University as a one-day international event. It traditionally takes place on a Friday, 9:00AM - 6:00PM, leaving the weekend free for visitors to enjoy the many attractions of New York City.  
+The first Applied Probability Day took place in April 1992 at Columbia University as a one-day international event. It traditionally takes place on a Friday, 9:00AM - 6:00PM, leaving the weekend free for visitors to enjoy the many attractions of New York City.  
 
-Each APD has six renown invited speakers covering a broad array of topics in applied probability. Previous speakers and the titles of their talks are listed below.
+Each Applied Probability Day has six renown invited speakers covering a broad array of topics in applied probability. Previous speakers and the titles of their talks are listed below.
 
 ## 1992
 - Joel E. Cohen (Rockefeller University): _Random Graphs in Biology_
