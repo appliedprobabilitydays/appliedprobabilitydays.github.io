@@ -149,7 +149,7 @@ In honor and memory of Cyrus Derman.
 In honor and memory of Larry Shepp.
 - Martin Lindquist (Johns Hopkins University): _From CT to fMRI: Larry Shepp's Impact on Medical Imaging_
 - Larry Brown (The Wharton School): _The Class of Stationary Gaussian Processes That Are Limits of Stationary AR(p) Time Series_
-- Jim Reeds (Princeton University): _ Two Encounters With Robots_
+- Jim Reeds (Princeton University): _Two Encounters With Robots_
 - Robert Vanderbei (Princeton University): _From Bandits to Dishonest Statisticians, A Survey/Review of My Collaborations with Larry_
 - Albert N. Shiryaev (Steklov Mathematical Institute and Lomonosov Moscow State University, Russia)
 - S. R. Srinivasa Varadhan (New York University): _Some remarks  on Large Deviations_
