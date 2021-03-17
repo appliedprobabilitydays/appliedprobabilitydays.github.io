@@ -6,6 +6,7 @@ permalink: /committees/
 
 ## Organizing committee
 - Richard Davis
+- Jing Dong
 - Ton Dieker
 - Dan Lacker
 - Henry Lam
@@ -13,5 +14,5 @@ permalink: /committees/
 - David Yao
 
 ## Advisory committee
-- David Goldberg
+- David Goldberg (Cornell)
 
