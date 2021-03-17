@@ -6,8 +6,8 @@ permalink: /committees/
 
 ## Organizing committee
 - Richard Davis
-- Jing Dong
 - Ton Dieker
+- Jing Dong
 - Dan Lacker
 - Henry Lam
 - Karl Sigman
