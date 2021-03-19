@@ -9,7 +9,7 @@ All times are for the US Eastern time zone.
 
 ## July 7, 2021
 
-| 10:30am -- 10:45am    | Welcome (Karl Sigman) |
+| 10:15am -- 10:30am    | Welcome (Karl Sigman) |
 
 ## July 8, 2021
 

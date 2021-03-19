@@ -8,6 +8,7 @@ permalink: /committees/
 - Richard Davis
 - Ton Dieker
 - Jing Dong
+- Paul Glasserman
 - Dan Lacker
 - Henry Lam
 - Karl Sigman

@@ -28,7 +28,7 @@ Each Applied Probability Day has six renown invited speakers covering a broad ar
 - Ward Whitt (AT&T Bell Labs): _The Nonstationary Erlang Loss Model_
 
 ## 1994
-- Ed Coffman (AT&T Bell Labs): _Stochastic Matching: _Guises and Applications_
+- Ed Coffman (AT&T Bell Labs): _Stochastic Matching: Guises and Applications_
 - Cristina Costantini (University Rome, Italy): _The Skorohod Reflection Problem_
 - Robin Pemantle (University Wisconsin, Madison): _What is the Probability that a Markov Chain Hits a Set?_
 - Steve Shreve (Carnegie Melon University): _Heavy Traffic Convergence of a Controlled Multi-Class Queueing System_
