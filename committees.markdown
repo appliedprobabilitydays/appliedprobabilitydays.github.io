@@ -16,4 +16,6 @@ permalink: /committees/
 
 ## Advisory committee
 - David Goldberg (Cornell)
+- Offer Kella (Hebrew University of Jerusalem)
+- Mark Squillante (IBM)
 
