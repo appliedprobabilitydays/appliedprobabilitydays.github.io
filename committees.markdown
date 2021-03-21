@@ -17,5 +17,7 @@ permalink: /committees/
 ## Advisory committee
 - David Goldberg (Cornell)
 - Offer Kella (Hebrew University of Jerusalem)
+- Kavita Ramanan (Brown University)
+- Rhonda Righter (University of California at Berkeley)
 - Mark Squillante (IBM)
 
