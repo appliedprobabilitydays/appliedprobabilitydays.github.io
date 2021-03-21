@@ -15,9 +15,11 @@ permalink: /committees/
 - David Yao
 
 ## Advisory committee
-- David Goldberg (Cornell)
-- Offer Kella (Hebrew University of Jerusalem)
+- Jose Blanchet (Stanford University)
+- David Goldberg (Cornell University)
+- Offer Kella (Hebrew University of Jerusalem, Israel)
 - Siva Theja Maguluri (Georgia Tech)
+- Pascal Moyal (University of Lorraine, France)
 - Kavita Ramanan (Brown University)
 - Rhonda Righter (University of California at Berkeley)
 - Mark Squillante (IBM)
