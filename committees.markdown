@@ -23,5 +23,6 @@ permalink: /committees/
 - Pascal Moyal (University of Lorraine, France)
 - Kavita Ramanan (Brown University)
 - Rhonda Righter (University of California at Berkeley)
+- Devavrat Shah (MIT)
 - Mark Squillante (IBM)
 
