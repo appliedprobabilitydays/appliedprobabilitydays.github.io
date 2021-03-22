@@ -16,6 +16,7 @@ permalink: /committees/
 
 ## Advisory committee
 - Jose Blanchet (Stanford University)
+- Jim Dai (Cornell University and Chinese University of Hong Kong, Shenzhen, China)
 - David Goldberg (Cornell University)
 - Offer Kella (Hebrew University of Jerusalem, Israel)
 - Siva Theja Maguluri (Georgia Tech)
