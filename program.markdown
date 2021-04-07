@@ -5,7 +5,7 @@ permalink: /program/
 author_profile: false
 ---
 
-All times are for the US Eastern time zone.
+All times are in New York City local time.
 
 ## July 7, 2021
 

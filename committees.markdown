@@ -4,15 +4,15 @@ title: Committees
 permalink: /committees/
 ---
 
-## Organizing committee
-- Richard Davis
-- Ton Dieker
-- Jing Dong
-- Paul Glasserman
-- Dan Lacker
-- Henry Lam
-- Karl Sigman
-- David Yao
+## Columbia University Organizing Committee
+- Karl Sigman (IEOR, committee chair)
+- Richard Davis (statistics)
+- Ton Dieker (IEOR)
+- Jing Dong (Columbia Business School)
+- Paul Glasserman (Columbia Business School)
+- Dan Lacker (IEOR)
+- Henry Lam (IEOR)
+- David Yao (IEOR)
 
 ## Advisory committee
 - Jose Blanchet (Stanford University)
@@ -26,3 +26,11 @@ permalink: /committees/
 - Devavrat Shah (MIT)
 - Mark Squillante (IBM)
 
+## Contact
+For further information contact:\
+Karl Sigman\
+Director\
+Center For Applied Probability\
+Columbia University\
+New York City, NY 10027\
+Email: <ks20@columbia.edu>
