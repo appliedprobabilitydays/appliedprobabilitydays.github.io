@@ -5,7 +5,7 @@ permalink: /program/
 author_profile: false
 ---
 
-All times are in New York City local time.
+All times are in New York City local time. Speakers will be announced shortly.
 
 ## July 7, 2021
 
