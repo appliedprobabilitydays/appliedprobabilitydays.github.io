@@ -17,10 +17,10 @@ Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021.
 Confirmed speakers:
 - John Duchi (Stanford University)
 - Jevgenijs Ivanovs (Aarhus University)
-- Devavrat Shah (MIT)
 - Claudia Klüppelberg (Technical University of Munich)
 - Laurent Massoulié (Inria Paris and Microsoft Research-INRIA Joint Centre)
 - Gareth Roberts (University of Warwick)
+- Devavrat Shah (MIT)
 - Ben Van Roy (Stanford University)
 - Garrett Van Ryzin (Amazon)
 - Mengdi Wang (Princeton University)
