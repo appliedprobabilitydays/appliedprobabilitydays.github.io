@@ -18,7 +18,7 @@ Confirmed speakers:
 - John Duchi (Stanford University)
 - Jevgenijs Ivanovs (Aarhus University)
 - Claudia Klüppelberg (Technical University of Munich)
-- Laurent Massoulié (Inria Paris and Microsoft Research-INRIA Joint Centre)
+- Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre)
 - Gareth Roberts (University of Warwick)
 - Devavrat Shah (MIT)
 - Ben Van Roy (Stanford University)
