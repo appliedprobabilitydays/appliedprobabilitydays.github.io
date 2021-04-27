@@ -12,7 +12,7 @@ header:
 excerpt: "July 7-9, 2021" 
 ---
 
-Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021.
+Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021 (Wednesday-Friday).
 
 Confirmed speakers:
 - John Duchi (Stanford University)
