@@ -30,7 +30,7 @@ First line of the abstract starts here. This is going to be an interesting talk 
 First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
 
 ## Devavrat Shah
-*TBA*\
+*Towards causal reinforcement learning*\
 First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
 
 ## Ben Van Roy
