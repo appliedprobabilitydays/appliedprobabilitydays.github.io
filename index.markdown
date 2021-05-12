@@ -15,15 +15,15 @@ excerpt: "July 7-9, 2021"
 Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021 (Wednesday-Friday).
 
 Confirmed speakers:
-- John Duchi (Stanford University)
-- Jevgenijs Ivanovs (Aarhus University)
-- Claudia Klüppelberg (Technical University of Munich)
-- Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre)
-- Gareth Roberts (University of Warwick)
-- Devavrat Shah (MIT)
-- Ben Van Roy (Stanford University)
-- Garrett Van Ryzin (Amazon)
-- Mengdi Wang (Princeton University)
+- John Duchi (Stanford University): *TBA*
+- Jevgenijs Ivanovs (Aarhus University): *Implementable coupling of a Lévy process and a Brownian motion*
+- Claudia Klüppelberg (Technical University of Munich): *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
+- Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): *Partial alignment of sparse random graphs*
+- Gareth Roberts (University of Warwick): *Limits of simulated tempering schemes in high dimensions*
+- Devavrat Shah (MIT): *TBA*
+- Ben Van Roy (Stanford University): *TBA*
+- Garrett Van Ryzin (Amazon): *Larger firms pay more in the gig economy*
+- Mengdi Wang (Princeton University): *Compressive state representation learning from dynamic data towards small-data RL applications*
 
 All are very welcome, but please register through the above button to let us know you plan to attend. We will send you logistical details in the days before the event.
 
