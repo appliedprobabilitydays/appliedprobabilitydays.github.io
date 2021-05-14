@@ -3,6 +3,8 @@ main:
   url: /
 - title: Program
   url: /program
+- title: Abstracts
+  url: /abstracts
 - title: History
   url: /history
 - title: Committees

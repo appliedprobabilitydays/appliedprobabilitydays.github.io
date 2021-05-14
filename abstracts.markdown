@@ -10,37 +10,39 @@ author_profile: false
 
 
 ## John Duchi
-*TBA*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*TBA*
+
 
 ## Jevgenijs Ivanovs
 *Implementable coupling of a Lévy process and a Brownian motion*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+We provide a simple algorithm for construction of Brownian paths approximating those of a Lévy process on a finite time interval. It requires knowledge of the Lévy process trajectory on a chosen regular grid and the law of its endpoint, or the ability to simulate from that. This algorithm is based on reordering of Brownian increments, and it can be applied in a recursive manner. We establish an upper bound on the mean squared maximal distance between the paths and determine a suitable mesh size in various asymptotic regimes. The analysis proceeds by reduction to the comonotonic coupling of increments. Applications to model risk and multilevel Monte Carlo are discussed in detail, and numerical examples are provided.\
+This is a joint work with [Vladimir Fomichov](https://arxiv.org/search/math?searchtype=author&query=Fomichov%2C+V) and [Jorge González Cázares](https://arxiv.org/search/math?searchtype=author&query=C%C3%A1zares%2C+J+G).
 
 ## Claudia Klüppelberg
 *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+
+Motivated by extreme risk analysis, max-linear graphical models have been introduced and studied with the goal to follow extreme events spreading through a network. This is quite different to to classical graphical models, where the focus is on dependence around the mean of data. We present max-linear models naturally in the framework of tropical geometry. This perspective allows us to shed light on some known results and to prove others with algebraic techniques. In particular, we give a complete description of conditional independence relations for max-linear Bayesian networks. \
+This is joint work with Carlos Améndola, Steffen Lauritzen, and Ngoc Tran, based on the paper
+*Améndola, C., Klüppelberg, C., Lauritzen, S., and Tran, N. (2021)
+Conditional Independence in Max-linear Bayesian Networks.
+Ann. Appl. Prob. forthcoming.*
 
 ## Laurent Massoulié
-*Partial alignment of sparse random graphs*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*Partial alignment of sparse random graphs*
 
 ## Gareth Roberts
-*Limits of simulated tempering schemes in high dimensions*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*Limits of simulated tempering schemes in high dimensions*
 
 ## Devavrat Shah
-*Towards causal reinforcement learning*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*Towards causal reinforcement learning*
 
 ## Ben Van Roy
-*TBA*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*TBA*
 
 ## Garrett Van Ryzin
 *Larger firms pay more in the gig economy*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+If gig economy firms enjoy such powerful network effects, then why are such markets typically highly contestable and not dominated by large firms? We propose a theory showing that a shared pool of labor utilized by multiple firms creates diseconomies of scale at equilibrium. Specifically, smaller firms can free-ride on the shared labor pool that is maintained by larger firms that pay workers more in equilibrium. At the same time, our theory also shows that large firms are necessary for gig economies to form. These results provide important insights on the unique economics of the gig economy.\
+This is joint work with Zhen Lian and Sebastien Martin.
 
 ## Mengdi Wang
-*Compressive state representation learning from dynamic data towards small-data RL applications*\
-First line of the abstract starts here. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. This is going to be an interesting talk but here I'm just filling up space to see how it looks. 
+*Compressive state representation learning from dynamic data towards small-data RL applications*
