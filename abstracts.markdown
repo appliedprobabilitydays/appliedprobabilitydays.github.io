@@ -42,7 +42,7 @@ Ann. Appl. Prob. forthcoming.*
 ## Garrett Van Ryzin
 *Larger firms pay more in the gig economy*\
 If gig economy firms enjoy such powerful network effects, then why are such markets typically highly contestable and not dominated by large firms? We propose a theory showing that a shared pool of labor utilized by multiple firms creates diseconomies of scale at equilibrium. Specifically, smaller firms can free-ride on the shared labor pool that is maintained by larger firms that pay workers more in equilibrium. At the same time, our theory also shows that large firms are necessary for gig economies to form. These results provide important insights on the unique economics of the gig economy.\
-This is joint work with Zhen Lian and Sebastien Martin.
+This is [joint work](https://ssrn.com/abstract=3775888) with Zhen Lian and Sebastien Martin.
 
 ## Mengdi Wang
 *Compressive state representation learning from dynamic data towards small-data RL applications*
