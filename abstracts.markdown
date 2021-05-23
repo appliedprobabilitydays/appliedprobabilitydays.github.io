@@ -38,7 +38,7 @@ Ann. Appl. Prob. forthcoming.*
 *Towards causal reinforcement learning*
 
 ## Ben Van Roy
-*TBA*
+*Reinforcement learning, bit by bit*
 
 ## Garrett Van Ryzin
 *Larger firms pay more in the gig economy*
