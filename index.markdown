@@ -15,7 +15,7 @@ excerpt: "July 7-9, 2021"
 Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021 (Wednesday-Friday).
 
 Confirmed speakers:
-- John Duchi (Stanford University): *TBA*
+- John Duchi (Stanford University): *On the intersection between privacy, statistical inference, and optimality*
 - Jevgenijs Ivanovs (Aarhus University): *Implementable coupling of a Lévy process and a Brownian motion*
 - Claudia Klüppelberg (Technical University of Munich): *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
 - Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): *Partial alignment of sparse random graphs*

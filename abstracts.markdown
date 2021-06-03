@@ -10,7 +10,7 @@ author_profile: false
 
 
 ## John Duchi
-*TBA*
+*On the intersection between privacy, statistical inference, and optimality*
 
 
 ## Jevgenijs Ivanovs
