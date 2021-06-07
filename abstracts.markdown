@@ -12,6 +12,7 @@ author_profile: false
 ## John Duchi
 *On the intersection between privacy, statistical inference, and optimality*
 
+In this talk, I will give an overview and then a deeper dive on estimation under privacy constraints. Beginning from definitional aspects of privacy, I will transition to some of the tools my students, colleagues, and I have developed to provide various guarantees of optimality in estimation problems. These ideas will range from worst-case (minimax) bounds to more recent nuanced bounds that open the doors to instance optimality in private estimation, inspired by classical asymptotic and non-asymptotic notions of optimality. As part of our development, we will exhibit a complementary collection of estimators, including what we term the inverse sensitivity mechanisms, that exhibit various notions of optimality: minimax, instance, or others, for a large class of problems.
 
 ## Jevgenijs Ivanovs
 *Implementable coupling of a Lévy process and a Brownian motion*
