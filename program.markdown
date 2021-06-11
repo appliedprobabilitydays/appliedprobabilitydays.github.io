@@ -10,24 +10,25 @@ All times are in New York City local time.
 ## July 7, 2021
 
 | 10:15am -- 10:30am    | Welcome (Karl Sigman)  |
-| 10:30am -- 11:15am    | Talk 1       |
-| 11:15am -- 11:45am   | Break       |
-| 11:45am -- 12:30pm    | Talk 2       |
-| 12:30pm -- 1:00pm    | Break       |
-| 1:00pm -- 1:45pm    | Talk 3       |
+| 10:30am -- 11:15am    | Ben Van Roy       |
+| 11:15am -- 12:00pm    | Jevgenijs Ivanovs       |
+| 12:00pm -- 12:30pm   | Gatherly       |
+| 12:30pm -- 1:15pm    | Garrett Van Ryzin       |
+| 1:15pm -- 2:00pm    | Gatherly       |
 
 ## July 8, 2021
 
-| 10:30am -- 11:15am    | Talk 1       |
-| 11:15am -- 11:45am   | Break       |
-| 11:45am -- 12:30pm    | Talk 2       |
-| 12:30pm -- 1:00pm    | Break       |
-| 1:00pm -- 1:45pm    | Talk 3       |
+| 10:30am -- 11:15am    | Laurent Massoulié      |
+| 11:15am -- 12:00pm    | Mengdi Wang      |
+| 12:00pm -- 12:30pm   | Gatherly       |
+| 12:30pm -- 1:15pm    | Gareth Roberts       |
+| 1:15pm -- 2:00pm    | Gatherly       |
 
 ## July 9, 2021
 
-| 10:30am -- 11:15am    | Talk 1       |
-| 11:15am -- 11:45am   | Break       |
-| 11:45am -- 12:30pm    | Talk 2       |
-| 12:30pm -- 1:00pm    | Break       |
-| 1:00pm -- 1:45pm    | Talk 3       |
+| 10:30am -- 11:15am    | Claudia Klüppelberg       |
+| 11:15am -- 12:00pm    | John Duchi       |
+| 12:00pm -- 12:30pm   | Gatherly       |
+| 12:30pm -- 1:15pm    | Devavrat Shah        |
+| 1:15pm -- 1:20pm    | Closing (Karl Sigman)  |
+| 1:20pm -- 2:00pm    | Gatherly       |
