@@ -9,7 +9,7 @@ All times are in New York City local time.
 
 ## July 7, 2021
 
-| 10:15am -- 10:30am    | Welcome (Karl Sigman)  |
+| 10:20am -- 10:30am    | Welcome (Karl Sigman)  |
 | 10:30am -- 11:15am    | Ben Van Roy       |
 | 11:15am -- 12:00pm    | Jevgenijs Ivanovs       |
 | 12:00pm -- 12:30pm   | Gatherly       |
