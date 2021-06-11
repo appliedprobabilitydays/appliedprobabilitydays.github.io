@@ -19,10 +19,10 @@ Confirmed speakers:
 - Jevgenijs Ivanovs (Aarhus University): *Implementable coupling of a Lévy process and a Brownian motion*
 - Claudia Klüppelberg (Technical University of Munich): *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
 - Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): *Partial alignment of sparse random graphs*
-- Gareth Roberts (University of Warwick): *Limits of simulated tempering schemes in high dimensions*
+- Gareth Roberts (University of Warwick): *Limits of simulated and parallel tempering schemes in high dimensions*
 - Devavrat Shah (MIT): *Towards causal reinforcement learning*
 - Ben Van Roy (Stanford University): *Reinforcement learning, bit by bit*
-- Garrett Van Ryzin (Amazon): *Larger firms pay more in the gig economy*
+- Garrett Van Ryzin (Amazon): *Labor cost free-riding in the gig economy*
 - Mengdi Wang (Princeton University): *Compressive state representation learning from dynamic data towards small-data RL applications*
 
 All are very welcome, but please register through the above button to let us know you plan to attend. We will send you logistical details in the days before the event.

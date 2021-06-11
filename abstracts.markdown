@@ -47,9 +47,9 @@ This work is mainly joint work with Nick Tawn and/or Jeff Rosenthal.
 *Reinforcement learning, bit by bit*
 
 ## Garrett Van Ryzin
-*Larger firms pay more in the gig economy*
+*Labor cost free-riding in the gig economy*
 
-If gig economy firms enjoy such powerful network effects, then why are such markets typically highly contestable and not dominated by large firms? We propose a theory showing that a shared pool of labor utilized by multiple firms creates diseconomies of scale at equilibrium. Specifically, smaller firms can free-ride on the shared labor pool that is maintained by larger firms that pay workers more in equilibrium. At the same time, our theory also shows that large firms are necessary for gig economies to form. These results provide important insights on the unique economics of the gig economy.\\
+We propose a theory of gig economies in which workers participate in a shared labor pool utilized by multiple firms. Since firms share the same pool of workers, they face a trade-off in setting pay rates; high pay rates are necessary to maintain a large worker pool and thus reduce the likelihood of lost demand, but they also lower a firm’s profit margin. We prove that larger firms pay more than smaller firms in the resulting pay equilibrium. These diseconomies of scale are strong too; firms smaller than a critical size pay the minimal rate possible (the workers’ reservation wage), while all firms larger than the critical size earn the same total profit regardless of size. This scale disadvantage in labor costs contradicts the conventional wisdom that gig companies enjoy strong network effects and suggests that small firms have significant incentives to join an existing gig economy, implying gig markets are highly contestable. Yet we also show that the formation of a gig economy requires the existence of a large firm, in the sense that an equilibrium without any firms participating only exists when no single firm has enough demand to form a gig economy on its own. The findings are consistent with stylized facts about the evolution of gig markets such as ridesharing.\\
 This is [joint work](https://ssrn.com/abstract=3775888) with Zhen Lian and Sebastien Martin.
 
 ## Mengdi Wang
