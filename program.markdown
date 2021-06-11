@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 All times are in New York City local time. 
+We use the [Gatherly](https://www.gatherly.io/) platform for you to meet other community members, we encourage you to participate!
 
 ## July 7, 2021
 
