@@ -20,7 +20,7 @@ Confirmed speakers:
 - Claudia Klüppelberg (Technical University of Munich): *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
 - Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): *Partial alignment of sparse random graphs*
 - Gareth Roberts (University of Warwick): *Limits of simulated and parallel tempering schemes in high dimensions*
-- Devavrat Shah (MIT): *Towards causal reinforcement learning*
+- Devavrat Shah (MIT): *Causal tensor estimation*
 - Ben Van Roy (Stanford University): *Reinforcement learning, bit by bit*
 - Garrett Van Ryzin (Amazon): *Labor cost free-riding in the gig economy*
 - Mengdi Wang (Princeton University): *Compressive state representation learning from dynamic data towards small-data RL applications*

@@ -41,7 +41,10 @@ This work is mainly joint work with Nick Tawn and/or Jeff Rosenthal.
 
 
 ## Devavrat Shah
-*Towards causal reinforcement learning*
+*Causal tensor estimation*
+
+In this talk, we present a framework for causal inference for the “panel” or “longitudinal” setting from the lens of tensor estimation. Traditionally, such panel or longitudinal settings are considered in Econometrics literature for program or policy evaluation. Tensor estimation has been considered in Machine learning where tantalizing statistical and computational tradeoffs have emerged for random observation models. We introduce a causal variant of tensor estimation that provides a unified view for prior works in Econometrics as well as provides newer avenues to explore. We discuss a method for estimating such a causal variant of the tensor. We discuss various exciting directions for future research including offline reinforcement learning. \\
+This is based on joint work with Alberto Abadie (MIT), Anish Agarwal (MIT) and Dennis Shen (MIT/UC Berkeley).
 
 ## Ben Van Roy
 *Reinforcement learning, bit by bit*
