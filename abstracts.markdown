@@ -32,6 +32,9 @@ Ann. Appl. Prob. forthcoming.*
 ## Laurent Massoulié
 *Partial alignment of sparse random graphs*
 
+Graph alignment is a generic algorithmic problem with many applications. In this work we consider alignment of sparse random graphs generated from the correlated Erdös-Rényi distribution. We introduce the Neighborhood Tree Matching Algorithm which provably returns -- in polynomial time -- a positive fraction of correctly matched vertices, and a vanishing fraction of mismatches. This result holds in a challenging regime of graphs with average degree in $O(1)$ and correlation parameter bounded away from 1. As a byproduct of the analysis we introduce a matching metric between trees and characterize it for several models of correlated random trees. If time allows we shall also describe recent results giving information-theoretic upper bounds on the best possible partial alignment achievable by any algorithm, polynomial-time or not, and improved conditions for partial alignment in poly-time. \\
+This is based on joint works with [Luca Ganassali](https://arxiv.org/abs/2002.01258) and [Marc Lelarge](https://arxiv.org/pdf/2102.02685.pdf).
+
 ## Gareth Roberts
 *Limits of simulated and parallel tempering schemes in high dimensions*
 
@@ -47,7 +50,9 @@ In this talk, we present a framework for causal inference for the “panel” or
 This is based on joint work with Alberto Abadie (MIT), Anish Agarwal (MIT) and Dennis Shen (MIT/UC Berkeley).
 
 ## Ben Van Roy
-*Reinforcement learning, bit by bit*
+*Simple agent, complex environment: efficient reinforcement earning with agent states*
+
+I will present a simple reinforcement learning agent that implements an optimistic version of Q-learning and results establishing that this agent can operate with some level of competence in any environment.  The results apply even when the environment is arbitrarily complex — and much more so than the agent — and treat a general agent-environment interface, involving a single stream of experience.  This level of generality positions the results to inform the design of future agents for operation in complex real environments.  I will also discuss some open issues related to the agent and analysis.
 
 ## Garrett Van Ryzin
 *Labor cost free-riding in the gig economy*
