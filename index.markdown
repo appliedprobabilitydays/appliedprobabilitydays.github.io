@@ -23,7 +23,7 @@ Confirmed speakers:
 - Devavrat Shah (MIT): *Causal tensor estimation*
 - Ben Van Roy (Stanford University): *Simple agent, complex environment: efficient reinforcement earning with agent states*
 - Garrett Van Ryzin (Amazon): *Labor cost free-riding in the gig economy*
-- Mengdi Wang (Princeton University): *Compressive state representation learning from dynamic data towards small-data RL applications*
+- Mengdi Wang (Princeton University): *Compressive state representation learning towards small-data RL applications*
 
 All are very welcome, but please register through the above button to let us know you plan to attend. We will send you logistical details in the days before the event.
 

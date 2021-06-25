@@ -61,4 +61,6 @@ We propose a theory of gig economies in which workers participate in a shared la
 This is [joint work](https://ssrn.com/abstract=3775888) with Zhen Lian and Sebastien Martin.
 
 ## Mengdi Wang
-*Compressive state representation learning from dynamic data towards small-data RL applications*
+*Compressive state representation learning towards small-data RL applications*
+
+In this talk we survey recent advances on statistical efficiency and regret of reinforcement learning (RL) when good state representations are available. Motivated by the RL theory, we discuss what should be good state representations for RL and how to  find compact state embeddings from high-dimensional Markov state trajectories. In the spirit of diffusion map for dynamical systems, we propose an efficient method for learning a low-dimensional state embedding and capturing the process's dynamics. State embedding can be used to cluster states into metastable sets predict future dynamics, and enable generalizable downstream machine learning and reinforcement learning tasks. We demonstrated applications of the approach in games, clinical pathway optimization, single-cell biology and identification of gene markers for drug discovery.
