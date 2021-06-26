@@ -21,8 +21,8 @@ Confirmed speakers:
 - Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): *Partial alignment of sparse random graphs*
 - Gareth Roberts (University of Warwick): *Limits of simulated and parallel tempering schemes in high dimensions*
 - Devavrat Shah (MIT): *Causal tensor estimation*
-- Ben Van Roy (Stanford University): *Simple agent, complex environment: efficient reinforcement earning with agent states*
-- Garrett Van Ryzin (Amazon): *Labor cost free-riding in the gig economy*
+- Ben Van Roy (Stanford University): *Simple agent, complex environment: efficient reinforcement learning with agent states*
+- Garrett van Ryzin (Amazon): *Labor cost free-riding in the gig economy*
 - Mengdi Wang (Princeton University): *Compressive state representation learning towards small-data RL applications*
 
 All are very welcome, but please register through the above button to let us know you plan to attend. We will send you logistical details in the days before the event.

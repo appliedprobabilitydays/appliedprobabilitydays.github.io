@@ -50,11 +50,11 @@ In this talk, we present a framework for causal inference for the “panel” or
 This is based on joint work with Alberto Abadie (MIT), Anish Agarwal (MIT) and Dennis Shen (MIT/UC Berkeley).
 
 ## Ben Van Roy
-*Simple agent, complex environment: efficient reinforcement earning with agent states*
+*Simple agent, complex environment: efficient reinforcement learning with agent states*
 
 I will present a simple reinforcement learning agent that implements an optimistic version of Q-learning and results establishing that this agent can operate with some level of competence in any environment.  The results apply even when the environment is arbitrarily complex — and much more so than the agent — and treat a general agent-environment interface, involving a single stream of experience.  This level of generality positions the results to inform the design of future agents for operation in complex real environments.  I will also discuss some open issues related to the agent and analysis.
 
-## Garrett Van Ryzin
+## Garrett van Ryzin
 *Labor cost free-riding in the gig economy*
 
 We propose a theory of gig economies in which workers participate in a shared labor pool utilized by multiple firms. Since firms share the same pool of workers, they face a trade-off in setting pay rates; high pay rates are necessary to maintain a large worker pool and thus reduce the likelihood of lost demand, but they also lower a firm’s profit margin. We prove that larger firms pay more than smaller firms in the resulting pay equilibrium. These diseconomies of scale are strong too; firms smaller than a critical size pay the minimal rate possible (the workers’ reservation wage), while all firms larger than the critical size earn the same total profit regardless of size. This scale disadvantage in labor costs contradicts the conventional wisdom that gig companies enjoy strong network effects and suggests that small firms have significant incentives to join an existing gig economy, implying gig markets are highly contestable. Yet we also show that the formation of a gig economy requires the existence of a large firm, in the sense that an equilibrium without any firms participating only exists when no single firm has enough demand to form a gig economy on its own. The findings are consistent with stylized facts about the evolution of gig markets such as ridesharing.\\
