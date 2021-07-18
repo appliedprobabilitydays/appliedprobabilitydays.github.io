@@ -7,14 +7,14 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/alma_mater.jpg
   actions:
-    - label: "Register (Free)"
+    - label: "Registration closed"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSezIjqoDHndJcLSSmyyZvIMx9pq7Jz2m2kTJllBVQ4FJN0MTA/viewform?usp=sf_link"
 excerpt: "July 7-9, 2021" 
 ---
 
-Applied Probability Days 2021 is a virtual event to be held July 7-9, 2021 (Wednesday-Friday).
+Applied Probability Days 2021 was a virtual event held July 7-9, 2021 (Wednesday-Friday).
 
-Confirmed speakers:
+The speakers were:
 - John Duchi (Stanford University): *On the intersection between privacy, statistical inference, and optimality*
 - Jevgenijs Ivanovs (Aarhus University): *Implementable coupling of a Lévy process and a Brownian motion*
 - Claudia Klüppelberg (Technical University of Munich): *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
