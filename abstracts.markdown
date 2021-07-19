@@ -56,7 +56,7 @@ Slides are [here](slides/shah.pdf).
 *Simple agent, complex environment: efficient reinforcement learning with agent states*
 
 I will present a simple reinforcement learning agent that implements an optimistic version of Q-learning and results establishing that this agent can operate with some level of competence in any environment.  The results apply even when the environment is arbitrarily complex — and much more so than the agent — and treat a general agent-environment interface, involving a single stream of experience.  This level of generality positions the results to inform the design of future agents for operation in complex real environments.  I will also discuss some open issues related to the agent and analysis.\\
-Slides are [here](slides/vanroy.pdf).
+The paper is [here](slides/vanroy.pdf).
 
 ## Garrett van Ryzin
 *Labor cost free-riding in the gig economy*
