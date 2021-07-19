@@ -18,7 +18,8 @@ In this talk, I will give an overview and then a deeper dive on estimation under
 *Implementable coupling of a Lévy process and a Brownian motion*
 
 We provide a simple algorithm for construction of Brownian paths approximating those of a Lévy process on a finite time interval. It requires knowledge of the Lévy process trajectory on a chosen regular grid and the law of its endpoint, or the ability to simulate from that. This algorithm is based on reordering of Brownian increments, and it can be applied in a recursive manner. We establish an upper bound on the mean squared maximal distance between the paths and determine a suitable mesh size in various asymptotic regimes. The analysis proceeds by reduction to the comonotonic coupling of increments. Applications to model risk and multilevel Monte Carlo are discussed in detail, and numerical examples are provided.\\
-This is a joint work with [Vladimir Fomichov](https://arxiv.org/search/math?searchtype=author&query=Fomichov%2C+V) and [Jorge González Cázares](https://arxiv.org/search/math?searchtype=author&query=C%C3%A1zares%2C+J+G).
+This is a joint work with [Vladimir Fomichov](https://arxiv.org/search/math?searchtype=author&query=Fomichov%2C+V) and [Jorge González Cázares](https://arxiv.org/search/math?searchtype=author&query=C%C3%A1zares%2C+J+G).\\
+Slides are [here](slides/ivanovs.pdf).
 
 ## Claudia Klüppelberg
 *Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence*
@@ -27,7 +28,8 @@ Motivated by extreme risk analysis, max-linear graphical models have been introd
 This is joint work with Carlos Améndola, Steffen Lauritzen, and Ngoc Tran, based on the paper
 *Améndola, C., Klüppelberg, C., Lauritzen, S., and Tran, N. (2021)
 Conditional Independence in Max-linear Bayesian Networks.
-Ann. Appl. Prob. forthcoming.*
+Ann. Appl. Prob. forthcoming.*\\
+Slides are [here](slides/kluppelberg.pdf).
 
 ## Laurent Massoulié
 *Partial alignment of sparse random graphs*
@@ -40,19 +42,21 @@ This is based on joint works with [Luca Ganassali](https://arxiv.org/abs/2002.01
 
 Simulated tempering (ST) and parallel tempering (PT) have proved to be a highly effective MCMC algorithm for sampling from multi-modal distributions. It works on the principle that for any given target density $\pi (x)$, simulation from a density proportional to $\pi(x)^{1/T}$  for $T>1$ is usually much easier than sampling directly from $\pi(x)$. Basic simulated tempering therefore constructs a Markov chain $(x, T)$ consisting of within-temperature moves which adjust $x$, and between-temperature moves which change $T$ within a discrete grid of possible $T$ values. Parallel tempering works similarly but maintains an ensemble of particles, one at each temperature, with particles at neighbouring temperatures occasionally swapping. Lack of analytic tractability of these Markov chains means that study of their mixing properties are complicated. However it is possible to analyse stylised versions of multi-modal problems in the high-dimensional limit.\\
 This talk will consider such limits in different contexts. These limits are normally expressed as diffusions (or skew-diffusions) on (some version of) the temperature space. One practical consideration for implementing these algorithms  concerns the choice of temperature grid. Our analysis allows practical guidance  on this choice. The analysis also sheds light on limitations to the properties of ST and PT and suggests methodological improvements which can be similarly analysed. In particular the Annealed Leap-Point Sampler (ALPS) which, somewhat counter-intuitively also utilises temperatures $T\ll 1$ in order to obtain good mixing properties.\\
-This work is mainly joint work with Nick Tawn and/or Jeff Rosenthal.
-
+This work is mainly joint work with Nick Tawn and/or Jeff Rosenthal.\\
+Slides are [here](slides/roberts.pdf).
 
 ## Devavrat Shah
 *Causal tensor estimation*
 
 In this talk, we present a framework for causal inference for the “panel” or “longitudinal” setting from the lens of tensor estimation. Traditionally, such panel or longitudinal settings are considered in Econometrics literature for program or policy evaluation. Tensor estimation has been considered in Machine learning where tantalizing statistical and computational tradeoffs have emerged for random observation models. We introduce a causal variant of tensor estimation that provides a unified view for prior works in Econometrics as well as provides newer avenues to explore. We discuss a method for estimating such a causal variant of the tensor. We discuss various exciting directions for future research including offline reinforcement learning. \\
-This is based on joint work with Alberto Abadie (MIT), Anish Agarwal (MIT) and Dennis Shen (MIT/UC Berkeley).
+This is based on joint work with Alberto Abadie (MIT), Anish Agarwal (MIT) and Dennis Shen (MIT/UC Berkeley).\\
+Slides are [here](slides/shah.pdf).
 
 ## Ben Van Roy
 *Simple agent, complex environment: efficient reinforcement learning with agent states*
 
-I will present a simple reinforcement learning agent that implements an optimistic version of Q-learning and results establishing that this agent can operate with some level of competence in any environment.  The results apply even when the environment is arbitrarily complex — and much more so than the agent — and treat a general agent-environment interface, involving a single stream of experience.  This level of generality positions the results to inform the design of future agents for operation in complex real environments.  I will also discuss some open issues related to the agent and analysis.
+I will present a simple reinforcement learning agent that implements an optimistic version of Q-learning and results establishing that this agent can operate with some level of competence in any environment.  The results apply even when the environment is arbitrarily complex — and much more so than the agent — and treat a general agent-environment interface, involving a single stream of experience.  This level of generality positions the results to inform the design of future agents for operation in complex real environments.  I will also discuss some open issues related to the agent and analysis.\\
+Slides are [here](slides/vanroy.pdf).
 
 ## Garrett van Ryzin
 *Labor cost free-riding in the gig economy*
