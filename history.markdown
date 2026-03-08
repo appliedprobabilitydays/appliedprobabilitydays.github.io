@@ -162,3 +162,15 @@ In honor of Ward Whitt.
 - Avi Mandelbaum (Technion, Israel): _Theompirical" Research in OR (MS/IE/OM), or Theoretical & Empirical Journeys through Service Systems_
 - William Massey (Princeton University): _Dynamic Rate Transience for Offered and Carried Load Queues_
 - Marty Reiman (Columbia University): _Intertwined Tales of Time (and Space) Scales_
+
+## 2021
+Virtual event.
+- John Duchi (Stanford University): _On the intersection between privacy, statistical inference, and optimality_
+- Jevgenijs Ivanovs (Aarhus University): _Implementable coupling of a Lévy process and a Brownian motion_
+- Claudia Klüppelberg (Technical University of Munich): _Conditional independence in max-linear Bayesian networks: impact graphs, source graphs, and &#65121;-dependence_
+- Laurent Massoulié (INRIA Paris and Microsoft Research-INRIA Joint Centre): _Partial alignment of sparse random graphs_
+- Gareth Roberts (University of Warwick): _Limits of simulated and parallel tempering schemes in high dimensions_
+- Devavrat Shah (MIT): _Causal tensor estimation_
+- Ben Van Roy (Stanford University): _Simple agent, complex environment: efficient reinforcement learning with agent states_
+- Garrett van Ryzin (Amazon): _Labor cost free-riding in the gig economy_
+- Mengdi Wang (Princeton University): _Compressive state representation learning towards small-data RL applications_

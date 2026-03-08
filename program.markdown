@@ -5,31 +5,21 @@ permalink: /program/
 author_profile: false
 ---
 
-All times are in New York City local time. 
-We use the [Gatherly](https://www.gatherly.io/){:target="_blank"} platform for you to meet other participants and the speakers, we encourage you to join!
+The Applied Probability Day 2026 will take place on April 24 in Mudd 301.
 
-## July 7, 2021
+| 9:15am -- 9:45am | Registration | 
+| 9:45am -- 10:00am | Welcome address by Dean Shih-Fu Chang |
+| 10:00am -- 10:40am | Peter Glynn |
+| 10:40am --11:20am | Søren Asmussen |
+| 11:20am -- 11:30am | Break |
+| 11:30am -- 12:00pm | Paul Glasserman |
+| 12:00pm -- 12:30pm | Assaf Zeevi |
+| 12:30pm -- 1:30pm | Lunch |
+| 1:30pm -- 2:00pm  | Alan Scheller-Wolf | 
+| 2:00pm -- 2:30pm | Jing Dong |
+| 2:30pm -- 3:00pm  | Wenpin Tang |
+| 3:00pm -- 3:30pm | Coffee break |
+| 3:30pm -- 4:00pm | Henry Lam |
+| 4:00pm -- 4:30pm | Ton Dieker |
+| 4:30pm -- 5:30pm | Panel session and closing remarks |
 
-| 10:20am -- 10:30am    | Welcome (Karl Sigman)  |
-| 10:30am -- 11:15am    | Ben Van Roy       |
-| 11:15am -- 12:00pm    | Jevgenijs Ivanovs       |
-| 12:00pm -- 12:30pm   | Gatherly       |
-| 12:30pm -- 1:15pm    | Garrett Van Ryzin       |
-| 1:15pm -- 2:00pm    | Gatherly       |
-
-## July 8, 2021
-
-| 10:30am -- 11:15am    | Laurent Massoulié      |
-| 11:15am -- 12:00pm    | Mengdi Wang      |
-| 12:00pm -- 12:30pm   | Gatherly       |
-| 12:30pm -- 1:15pm    | Gareth Roberts       |
-| 1:15pm -- 2:00pm    | Gatherly       |
-
-## July 9, 2021
-
-| 10:30am -- 11:15am    | Claudia Klüppelberg       |
-| 11:15am -- 12:00pm    | John Duchi       |
-| 12:00pm -- 12:30pm   | Gatherly       |
-| 12:30pm -- 1:15pm    | Devavrat Shah        |
-| 1:15pm -- 1:20pm    | Closing (Karl Sigman)  |
-| 1:20pm -- 2:00pm    | Gatherly       |
