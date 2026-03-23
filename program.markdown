@@ -5,7 +5,7 @@ permalink: /program/
 author_profile: false
 ---
 
-The Applied Probability Day 2026 will take place on April 24 in Mudd 301.
+The Applied Probability Day 2026 will take place on April 24 in Mudd 303 (talks) and Mudd 301 (catering).
 
 | 9:15am -- 9:45am | Registration | 
 | 9:45am -- 10:00am | Welcome address by Dean Shih-Fu Chang |
