@@ -7,7 +7,7 @@ author_profile: false
 
 The Applied Probability Day 2026 will take place on April 24 in Mudd 303 (talks) and Mudd 301 (catering).
 
-| 9:15am -- 9:45am | Registration | 
+| 9:00am -- 9:45am | Registration | 
 | 9:45am -- 10:00am | Welcome address by Dean Shih-Fu Chang |
 | 10:00am -- 10:40am | Peter Glynn |
 | 10:40am --11:20am | Søren Asmussen |
