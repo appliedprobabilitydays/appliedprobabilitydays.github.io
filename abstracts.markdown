@@ -8,7 +8,53 @@ toc_sticky: true
 author_profile: false
 ---
 
+## Søren Asmussen
+*On Wiener-Hopf factorization and Erlangization, with applications to finance and queueing*
 
+The Wiener-Hopf factorization of a Lévy process $X$ at an independent exponential time $e_1$ states that the maximum $\overline X(e_1)$ and terminal value $X(e_1)$ are independent. We present an extension to regime-switching models up to a more general time horizon. This covers in particular Canadization/Erlangization, meaning that a fixed horizon $T$ is approximated by an Erlang r.v. (a sum of $q$ i.i.d. exponentials) with mean $T$. Under the traditional assumption that jumps are phase-type, we present an iterative matrix algorithm for the marginal distributions of the Wiener-Hopf factors. From this together with the factorisation, option prices and transient queueing solutions come out as limits as $q\to\infty$ of closed matrix expressions. Here Richardson extrapolation allows to keep $q$ and hence matrix dimensions quite small. The approach avoids otherwise dominant features in the literature such as numerical transform inversion and expansions in terms of roots determined by analytic continuation and Rouch\’e’s theorem . The class of models is dense in the whole space of cadlag processes. A number of examples are presented.
+
+## Ton Dieker
+*QPLEX Decision Processes*
+
+We introduce a QPLEX Decision Process (QDP) as a model for dynamic control of queueing systems with non-stationary arrivals, general service distributions, and service-level chance constraints. QDPs integrate QPLEX, a computational modeling methodology for transient analysis of stochastic systems, into a nonlinear Markov decision framework. Since QPLEX approximations use nonlinear transition probabilities with orders-of-magnitude smaller state spaces, QDPs circumvent the curse of dimensionality associated with general service times. Via forward and backward iterative schemes, we can rapidly compute gradients deterministically on the much smaller state space, eliminating sampling variance. We further address optimization through natural-gradient-inspired methods with block-diagonal Fisher approximations. To illustrate the QDP methodology, we formulate a single-station dynamic pricing problem with non-stationary demand as a QDP. When the reward structure uses waiting and terminal costs, our approach can find near-optimal policies in seconds on a single CPU; when the reward structure uses penalties for deviating from service-level chance constraints, the optimization landscape is substantially more challenging yet our approach can find a high-quality, practical policy in approximately a minute on a single CPU. 
+
+## Jing Dong
+*Service-Induced Congestion in Memory-Constrained LLM Serving*
+
+In large language model (LLM) serving, each request accumulates persistent memory during service as its key–value cache grows with every generated token. Under high concurrency, aggregate memory usage therefore increases endogenously over time: the service process itself creates future capacity pressure. When memory capacity is exceeded, systems must evict active requests, i.e., discarding their cached state and restarting them later, which wastes computation and reduces throughput. This progressive resource consumption breaks the monotonicity assumptions underlying classical queueing stability analyses and gives rise to a new form of service-induced congestion. In this work, we develop a discrete-time dynamical model of memory-constrained LLM inference that captures the interaction among admission, memory growth, and throughput under continuous batching. In the saturated-input regime, the system admits both eviction-free fixed points and periodic limit cycles with evictions. For homogeneous workloads, we show that the eviction-free equilibrium is unstable under standard batching dynamics and that the system converges to a unique asymptotically stable worst-case limit cycle, where throughput losses can reach 50%. For heterogeneous workloads, we establish a sharp stability dichotomy. Under a large-prompt scaling regime, the eviction-free equilibrium is asymptotically stable if and only if the decoding lengths are coprime. This result characterizes when workload heterogeneity desynchronizes completion events and stabilizes the system. More broadly, we identify service-induced congestion as a structural instability mechanism in memory-constrained systems and determine when heterogeneity restores stability.
+
+## Paul Glasserman
+*Importance Sampling for Latent Dirichlet Allocation*
+
+TBA
+
+## Peter Glynn
+*Forty Years of Regeneration*
+
+Among Karl Sigman’s major contributions to applied probability are those connected to regeneration and its application to queues. Regeneration is a powerful tool in the analysis of Markov chains and processes in particular. In this talk, we will describe some of Karl’s work in this area, and discuss how the area has evolved in the years since Karl entered the field. In particular, we will touch on various characterizations of Harris recurrence, the use of regeneration in establishing necessary and sufficient conditions for the validity of various limit theorems, and the use of regeneration algorithmically, especially in the simulation of Markov chains and processes.
+
+## Henry Lam
+*Start Safe: Configuring Optimization Algorithms for Decision-Making under Extreme Risks*
+
+We consider stochastic optimization where the goal is not only to optimize an average-case objective, but also mitigate the occurrence and impact of extreme catastrophic events. When a simulation model is present, variance reduction techniques are naturally employed to control estimation errors due to event rarity. We argue, however, that natural attempts to integrate variance reduction into optimization, even executed in a reasonable adaptive fashion, encounters fundamental challenges in terms of guaranteeing realistic runtime when using common stochastic gradient descent algorithms. On a high level, the challenge arises from the extreme sensitivity of tail-based objectives with respect to the decision variables, which renders the failure of traditional Lipschitz-based analyses. We offer remedies based on a notion of "safe initialization", combined with careful update iterations, that allow for finite-time error control. We discuss implications of our findings on safe decision search and extremal predictive modeling.
+
+## Alan Scheller-Wolf
+*SPLIT: SymPathy for Large Jobs Improves Tail Latency*
+
+TBA
+
+## Wenpin Tang 
+*Stochastic approaches to conditional diffusion guidance and applications*
+
+Recently, there has been growing interest in guiding, or fine tuning pretrained diffusion models for specific purposes, e.g., aesthetic quality of images, functional property of proteins, and downstream tasks in finance and operations management. In this talk, I will present a novel approach to conditional diffusion guidance in the context of classifier guidance. The approach is probability-theoretic, relying on various techniques such as martingale, quadratic variations, etc. I will also discuss some applications including the generation of synthetic queueing and financial data.
+
+## Assaf Zeevi
+*TBA*
+
+TBA
+
+
+<!--
 ## John Duchi
 *On the intersection between privacy, statistical inference, and optimality*
 
@@ -68,3 +114,4 @@ This is [joint work](https://ssrn.com/abstract=3775888) with Zhen Lian and Sebas
 *Compressive state representation learning towards small-data RL applications*
 
 In this talk we survey recent advances on statistical efficiency and regret of reinforcement learning (RL) when good state representations are available. Motivated by the RL theory, we discuss what should be good state representations for RL and how to  find compact state embeddings from high-dimensional Markov state trajectories. In the spirit of diffusion map for dynamical systems, we propose an efficient method for learning a low-dimensional state embedding and capturing the process's dynamics. State embedding can be used to cluster states into metastable sets predict future dynamics, and enable generalizable downstream machine learning and reinforcement learning tasks. We demonstrated applications of the approach in games, clinical pathway optimization, single-cell biology and identification of gene markers for drug discovery.
+-->
