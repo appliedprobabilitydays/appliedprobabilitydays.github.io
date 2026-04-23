@@ -19,7 +19,7 @@ The Applied Probability Day 2026 will take place on April 24 in Mudd 303 (talks)
 | <span style="white-space:nowrap">2:00pm -- 2:30pm</span> | Jing Dong (Columbia University): _Service-Induced Congestion in Memory-Constrained LLM Serving_ |
 | <span style="white-space:nowrap">2:30pm -- 3:00pm</span> | Wenpin Tang (Columbia University): _Stochastic Approaches to Conditional Diffusion Guidance and Applications_ |
 | <span style="white-space:nowrap">3:00pm -- 3:30pm</span> | Coffee break |
-| <span style="white-space:nowrap">3:30pm -- 4:00pm</span> | Henry Lam (Columbia University)|
+| <span style="white-space:nowrap">3:30pm -- 4:00pm</span> | Henry Lam (Columbia University): _Start Safe: Configuring Optimization Algorithms for Decision-Making under Extreme Risks_ |
 | <span style="white-space:nowrap">4:00pm -- 4:30pm</span> | Ton Dieker (Columbia University): _QPLEX Decision Processes_ |
 | <span style="white-space:nowrap">4:30pm -- 5:30pm</span> | Panel session and closing remarks |
 
