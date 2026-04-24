@@ -13,7 +13,7 @@ The Applied Probability Day 2026 will take place on April 24 in Mudd 303 (talks)
 | <span style="white-space:nowrap">10:40am --11:20am</span> | Søren Asmussen (Aarhus University): _On Wiener-Hopf factorization and Erlangization, with Applications to Finance and Queueing_ |
 | <span style="white-space:nowrap">11:20am -- 11:30am</span> | Break |
 | <span style="white-space:nowrap">11:30am -- 12:00pm</span> | Paul Glasserman (Columbia University): _Importance Sampling for Latent Dirichlet Allocation_ |
-| <span style="white-space:nowrap">12:00pm -- 12:30pm</span> | Assaf Zeevi (Columbia University): _TBA_ |
+| <span style="white-space:nowrap">12:00pm -- 12:30pm</span> | Assaf Zeevi (Columbia University): _Sampling with Sigman_ |
 | <span style="white-space:nowrap">12:30pm -- 1:30pm</span> | Lunch |
 | <span style="white-space:nowrap">1:30pm -- 2:00pm</span> | Alan Scheller-Wolf (Carnegie Mellon University): _SPLIT: SymPathy for Large Jobs Improves Tail Latency_ | 
 | <span style="white-space:nowrap">2:00pm -- 2:30pm</span> | Jing Dong (Columbia University): _Service-Induced Congestion in Memory-Constrained LLM Serving_ |

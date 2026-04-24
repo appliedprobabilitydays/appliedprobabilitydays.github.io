@@ -49,10 +49,9 @@ TBA
 Recently, there has been growing interest in guiding, or fine tuning pretrained diffusion models for specific purposes, e.g., aesthetic quality of images, functional property of proteins, and downstream tasks in finance and operations management. In this talk, I will present a novel approach to conditional diffusion guidance in the context of classifier guidance. The approach is probability-theoretic, relying on various techniques such as martingale, quadratic variations, etc. I will also discuss some applications including the generation of synthetic queueing and financial data.
 
 ## Assaf Zeevi
-*TBA*
+*Sampling with Sigman*
 
-TBA
-
+Among Karl’s many contributions in applied probability, a somewhat lesser known piece of work (w/ Peter Glynn) studies a very basic question: does the PASTA principle (Poisson Arrivals See Time Averages) hold for more general classes of renewal process sampling mechanisms. Namely, if we sample a continuous time stochastic process according to the event times of a renewal process, does the average of the sampled process converge to the long run average computed by observing the entire path of that process (assuming it admits such a limit). This is among my favorite papers, and in the talk I’ll try to explain why…
 
 <!--
 ## John Duchi
