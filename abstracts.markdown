@@ -26,7 +26,7 @@ In large language model (LLM) serving, each request accumulates persistent memor
 ## Paul Glasserman
 *Importance Sampling for Latent Dirichlet Allocation*
 
-TBA
+-
 
 ## Peter Glynn
 *Forty Years of Regeneration*
@@ -41,7 +41,7 @@ We consider stochastic optimization where the goal is not only to optimize an av
 ## Alan Scheller-Wolf
 *SPLIT: SymPathy for Large Jobs Improves Tail Latency*
 
-TBA
+-
 
 ## Wenpin Tang 
 *Stochastic approaches to conditional diffusion guidance and applications*
